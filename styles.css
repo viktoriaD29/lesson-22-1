@@ -23,7 +23,7 @@
 }
 
 @media screen and (orientation: portrait) {
-  .square {
+  .container {
     flex-direction: column;
   }
 }
